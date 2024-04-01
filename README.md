@@ -1,6 +1,5 @@
 # python-challenge-API
-There are 2 files as the challenge deliverables.
-I used citypi library to get random city list and export it to the output folder.
-Based on the city list, I used openWeather API and Geoapify API to gain more information.
-For WeatherPy, I observed different relationships between various variables and get further anlysis results.
-For VacationPy, I used Geoapify API to get the hotel in the cities with ideal weather condition and showcase the cities on the map with their countries and the hotel names.
+The challenge deliverables consist of two files. To obtain a random city list, I utilized the Citypi library and exported it to the output folder. 
+Subsequently, I utilized the OpenWeather API and Geoapify API to extract additional information based on the city list. 
+In WeatherPy, I conducted an analysis to explore various relationships between different variables and obtained further insights. 
+In VacationPy, I employed the Geoapify API to identify hotels in cities with ideal weather conditions and displayed these cities on a map along with their respective countries and hotel names.
